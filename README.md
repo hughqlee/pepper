@@ -16,7 +16,7 @@ Depending on the diameter of the dome and the typical view angle, the shape of y
 
 ## Components
 - Raspberry Pi 5 (any model of the 5 should work)
-- Round DSI LED screen (3.4inch (86mm) Waveshare)
+- Round DSI LED screen (3.4inch (86mm) Waveshare)[link](https://www.waveshare.com/3.4inch-DSI-LCD-C.htm) 
 - Glass dome (the one used in the video is 90mm diameter, internal diameter is ~87mm)
 - Acrylic Reflector
 - 3d Printed Enclosure
