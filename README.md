@@ -5,10 +5,9 @@
 How to build the floating transparent display for a Raspberry Pi 5 described in the build video.
 
 ## BOM
-- 라즈베리파이 5
-- 원형 DSI LED 디스플레이
-- 유리 돔
-- 타원형 아크릴 판넬
+- 원형 디스플레이 + ESP32 보드 4inch (https://s.click.aliexpress.com/e/_c4Fqlwrl)
+- 유리 돔 10x18cm (https://s.click.aliexpress.com/e/_c3cDTQEb)
+- 타원형 아크릴 판넬 (Customized Order)
 - 기타 3D-printed 케이스
 
 ## Reference
