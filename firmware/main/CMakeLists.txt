@@ -1,0 +1,15 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "work_0.c"
+        "work_1.c"
+        "work_2.c"
+        "sleepy_0.c"
+        "sleepy_1.c"
+        "sleepy_2.c"
+        "dizzy_0.c"
+        "dizzy_1.c"
+        "dizzy_2.c"
+    INCLUDE_DIRS
+        "."
+)

@@ -1,0 +1,15 @@
+# macOS / OS noise
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ESP-IDF artifacts
+firmware/build/
+firmware/managed_components/
+firmware/sdkconfig.old
+

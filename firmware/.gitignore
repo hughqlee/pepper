@@ -1,0 +1,18 @@
+# ESP-IDF build artifacts
+build/
+
+# IDF component manager downloaded dependencies (reproducible)
+managed_components/
+
+# Generated/backup config
+sdkconfig.old
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
