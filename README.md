@@ -14,6 +14,8 @@ Pepper는 Pepper's Ghost 기법을 활용한 데스크톱 투명 디스플레이
   - Waveshare: https://www.waveshare.com/esp32-p4-wifi6-touch-lcd-3.4c.htm?sku=31523
 - 유리 돔 (`10cm` 지름 x `19cm` 높이)
   - AliExpress: https://s.click.aliexpress.com/e/_c313njhZ
+- 3M 투명 스티커
+  - Coupang: https://www.coupang.com/vp/products/7257189834
 - 타원형 아크릴 패널 (도면)
   - `hardware/타원 아크릴_50degree.DXF`
 - 3D 프린트 케이스
@@ -43,3 +45,6 @@ idf.py flash monitor
 
 ## Reference
 - Original inspiration: https://www.veeb.ch/projects/the-valley-beneath-the-pepper-dome
+
+## Special Thanks
+- DXF/STL 제작 협업: noweynos00@gmail.com
